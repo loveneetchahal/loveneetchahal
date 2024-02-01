@@ -25,7 +25,7 @@ I remind myself often to revisit my intentions. I work with reusability and read
  ### 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/lovechahal/)
 - [Email me](mailto:chahal.loveneet@gmail.com)
-- [Website](https://www.loveneetchahal.github.io)
+- [Website](loveneetchahal.github.io)
 - [Leetcode](https://leetcode.com/loveneetchahal/)
 
 #### 💻 Tech Stack:
