@@ -38,7 +38,6 @@ I remind myself often to revisit my intentions. I work with reusability and read
 ![](https://github-readme-stats.vercel.app/api?username=loveneetchahal&show_icons=true&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=loveneetchahal&icon=0&color=0)](https://visitcount.itsvg.in)
----
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 ----
