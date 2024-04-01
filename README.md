@@ -58,5 +58,4 @@ I remind myself often to revisit my intentions. I work with reusability and read
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loveneetchahal&theme=vue" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loveneetchahal&theme=vue" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loveneetchahal&theme=vue" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loveneetchahal&theme=vue" height="180em" />
 </div>
