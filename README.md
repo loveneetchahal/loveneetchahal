@@ -8,7 +8,7 @@ My name is Loveneet Singgh, and I am an aspiring Full-Stack developer with exten
 var personalInfo = new PersonalInformation()
 {
     FirstName = "Loveneet",
-    LastName = "Singh",
+    LastName = "Singgh",
     BirthDate = new DateOnly(1990, 18, 07),
     Major = "Information Technology"
     Degree = "Bachelor",
@@ -31,7 +31,7 @@ var personalInfo = new PersonalInformation()
 	    
 ## About me:
 
-I am Loveneet Singh a Software Developer, with enthusiasm and experience in developing software systems. I have the experience of leading, organizing and accomplishing software projects with a rich set of features and functionality. Especially, I have been successful in bending abstract system requirements into real software solutions that have high security and performance. I am dedicated to continuously enhancing my skills and am particularly enthusiastic about Front-end, Back-end, DevOps, and AI technologies.
+I am Loveneet a Software Developer, with enthusiasm and experience in developing software systems. I have the experience of leading, organizing and accomplishing software projects with a rich set of features and functionality. Especially, I have been successful in bending abstract system requirements into real software solutions that have high security and performance. I am dedicated to continuously enhancing my skills and am particularly enthusiastic about Front-end, Back-end, DevOps, and AI technologies.
 
 In my free time, you can see me driving or playing with my pets.
 
