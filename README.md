@@ -19,12 +19,12 @@ var personalInfo = new PersonalInformation()
         "EF Core",
         "SQL Server",
         "Angular",
-	"REACT JS",
+		"REACT JS",
         "Git",
         "Docker",
         "TypeScript",
-	"Javascript",
-	"JQuery"
+		"Javascript",
+		"JQuery"
     }
 }
 ```
