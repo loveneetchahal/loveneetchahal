@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Loveneet Singgh, and I am an aspiring Full-Stack developer with extensive knowledge of TypeScript, Angular, React, .NET Core, SQL, MongoDB and Python. I am a Self-starter with excellent interpersonal, motivational, and facilitation skills Specialties.
+My name is Loveneet Singh, and I am an aspiring Full-Stack developer with extensive knowledge of TypeScript, Angular, React, .NET Core, SQL, MongoDB and Python. I am a Self-starter with excellent interpersonal, motivational, and facilitation skills Specialties.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveneetchahal&label=Views&color=blue&style=plastic&style=for-the-badge" alt="loveneetchahal" /> </p>
 
@@ -8,7 +8,7 @@ My name is Loveneet Singgh, and I am an aspiring Full-Stack developer with exten
 var personalInfo = new PersonalInformation()
 {
     FirstName = "Loveneet",
-    LastName = "Singgh",
+    LastName = "Singh",
     BirthDate = new DateOnly(1990, 18, 07),
     Major = "Information Technology"
     Degree = "Bachelor",
